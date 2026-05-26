@@ -1,5 +1,3 @@
-# early-warning-system
-Python project for financial market early warning signals, data analysis and visualisation
 # Early Warning System for Financial Markets
 
 This repository contains a Python project developed during my MSc in Mathematical Engineering.
